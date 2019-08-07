@@ -103,3 +103,9 @@ iframe{
 #fillbox{
   margin:10vh;
 }
+#howtohelp{
+  background-image: url(homeless6.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
