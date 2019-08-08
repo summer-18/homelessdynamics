@@ -4,6 +4,9 @@
   font-family: Century Gothic;
   font-weight: bold;
 }
+html{
+  scroll-behavior:smooth;
+}
 ul{
   float: right;
   list-style-type: none;
